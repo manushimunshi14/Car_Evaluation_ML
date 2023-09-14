@@ -3,7 +3,7 @@ This repository contains the code and documentation for a machine learning proje
 
 # Data
 The dataset used for this project is the Car Evaluation Dataset from the UCI Machine Learning Repository. This dataset contains various features of cars, including their price, maintenance cost, number of doors, number of passengers, luggage capacity, safety rating, and more. The target variable is the car's evaluation category, which can be one of "unacceptable," "acceptable," "good," or "very good."
-Dataset link - https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Farchive.ics.uci.edu%2Fml%2Fdatasets%2FCar%2BEvaluation
+Dataset link - https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
 # Installation
 To run this project, you need to have Python 3.x and the following libraries installed:
